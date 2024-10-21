@@ -72,4 +72,4 @@ Learning Outcomes:
 - Pin Control: Learn how to control digital pins using Arduino.
 - Adjustable Timing: Understand how to modify blink timing with the `delay()' function.
 - Basic Sketch Uploading: Gain experience uploading Arduino sketches.
--
+
